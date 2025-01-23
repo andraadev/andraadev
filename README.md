@@ -1,4 +1,4 @@
-<div style="text-align:center;">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraadev)](https://github.com/anuraghazra/github-readme-stats)</center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraadev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andraadev/andraadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
