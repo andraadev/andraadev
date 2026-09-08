@@ -1,4 +1,9 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=andraadev)](https://github.com/stats-organization/github-stats-extended)
+<div align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=andraadev" alt="Anurag's GitHub stats" />
+  </a>
+</div>
+
 <!--
 **andraadev/andraadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
